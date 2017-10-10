@@ -28,4 +28,4 @@ Functions to look at are RequestExchangeItems (gets called by the randomizer fun
 
 lots of fun. steam plz no ban ty
 
-https://i.imgur.com/8LUGHKu.png
+![alt text](https://i.imgur.com/8LUGHKu.png)
